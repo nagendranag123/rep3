@@ -1,6 +1,5 @@
-public static void main ()
-
-{
-
-uhjksn,snxjl
-}
+line1
+line2
+line3
+line4
+line5
